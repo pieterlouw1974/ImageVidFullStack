@@ -1,0 +1,17 @@
+c:\Dev_Source\Other\FullStack\ImageVidFullStackAPI\ImageVidFullStack\ImageVidFullStack\bin\release\netcoreapp2.1\win7-x64\hostpolicy.dll
+c:\Dev_Source\Other\FullStack\ImageVidFullStackAPI\ImageVidFullStack\ImageVidFullStack\bin\release\netcoreapp2.1\win7-x64\hostfxr.dll
+c:\Dev_Source\Other\FullStack\ImageVidFullStackAPI\ImageVidFullStack\ImageVidFullStack\bin\release\netcoreapp2.1\win7-x64\ImageVidFullStack.exe
+c:\Dev_Source\Other\FullStack\ImageVidFullStackAPI\ImageVidFullStack\ImageVidFullStack\bin\release\netcoreapp2.1\win7-x64\ImageVidFullStack.deps.json
+c:\Dev_Source\Other\FullStack\ImageVidFullStackAPI\ImageVidFullStack\ImageVidFullStack\bin\release\netcoreapp2.1\win7-x64\ImageVidFullStack.runtimeconfig.json
+c:\Dev_Source\Other\FullStack\ImageVidFullStackAPI\ImageVidFullStack\ImageVidFullStack\bin\release\netcoreapp2.1\win7-x64\ImageVidFullStack.runtimeconfig.dev.json
+c:\Dev_Source\Other\FullStack\ImageVidFullStackAPI\ImageVidFullStack\ImageVidFullStack\bin\release\netcoreapp2.1\win7-x64\ImageVidFullStack.dll
+c:\Dev_Source\Other\FullStack\ImageVidFullStackAPI\ImageVidFullStack\ImageVidFullStack\bin\release\netcoreapp2.1\win7-x64\ImageVidFullStack.pdb
+c:\Dev_Source\Other\FullStack\ImageVidFullStackAPI\ImageVidFullStack\ImageVidFullStack\obj\release\netcoreapp2.1\win7-x64\ImageVidFullStack.csprojAssemblyReference.cache
+c:\Dev_Source\Other\FullStack\ImageVidFullStackAPI\ImageVidFullStack\ImageVidFullStack\obj\release\netcoreapp2.1\win7-x64\ImageVidFullStack.csproj.CoreCompileInputs.cache
+c:\Dev_Source\Other\FullStack\ImageVidFullStackAPI\ImageVidFullStack\ImageVidFullStack\obj\release\netcoreapp2.1\win7-x64\ImageVidFullStack.RazorAssemblyInfo.cache
+c:\Dev_Source\Other\FullStack\ImageVidFullStackAPI\ImageVidFullStack\ImageVidFullStack\obj\release\netcoreapp2.1\win7-x64\ImageVidFullStack.RazorAssemblyInfo.cs
+c:\Dev_Source\Other\FullStack\ImageVidFullStackAPI\ImageVidFullStack\ImageVidFullStack\obj\release\netcoreapp2.1\win7-x64\ImageVidFullStack.AssemblyInfoInputs.cache
+c:\Dev_Source\Other\FullStack\ImageVidFullStackAPI\ImageVidFullStack\ImageVidFullStack\obj\release\netcoreapp2.1\win7-x64\ImageVidFullStack.AssemblyInfo.cs
+c:\Dev_Source\Other\FullStack\ImageVidFullStackAPI\ImageVidFullStack\ImageVidFullStack\obj\release\netcoreapp2.1\win7-x64\ImageVidFullStack.RazorTargetAssemblyInfo.cache
+c:\Dev_Source\Other\FullStack\ImageVidFullStackAPI\ImageVidFullStack\ImageVidFullStack\obj\release\netcoreapp2.1\win7-x64\ImageVidFullStack.dll
+c:\Dev_Source\Other\FullStack\ImageVidFullStackAPI\ImageVidFullStack\ImageVidFullStack\obj\release\netcoreapp2.1\win7-x64\ImageVidFullStack.pdb

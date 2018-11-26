@@ -1,0 +1,14 @@
+c:\PJL\Dev\pixvid\Code\ImageVidFullStackAPI\ImageVidFullStack\ImageVidFullStack\bin\Release\netcoreapp2.1\ImageVidFullStack.deps.json
+c:\PJL\Dev\pixvid\Code\ImageVidFullStackAPI\ImageVidFullStack\ImageVidFullStack\bin\Release\netcoreapp2.1\ImageVidFullStack.runtimeconfig.json
+c:\PJL\Dev\pixvid\Code\ImageVidFullStackAPI\ImageVidFullStack\ImageVidFullStack\bin\Release\netcoreapp2.1\ImageVidFullStack.runtimeconfig.dev.json
+c:\PJL\Dev\pixvid\Code\ImageVidFullStackAPI\ImageVidFullStack\ImageVidFullStack\bin\Release\netcoreapp2.1\ImageVidFullStack.dll
+c:\PJL\Dev\pixvid\Code\ImageVidFullStackAPI\ImageVidFullStack\ImageVidFullStack\bin\Release\netcoreapp2.1\ImageVidFullStack.pdb
+c:\PJL\Dev\pixvid\Code\ImageVidFullStackAPI\ImageVidFullStack\ImageVidFullStack\obj\Release\netcoreapp2.1\ImageVidFullStack.csprojAssemblyReference.cache
+c:\PJL\Dev\pixvid\Code\ImageVidFullStackAPI\ImageVidFullStack\ImageVidFullStack\obj\Release\netcoreapp2.1\ImageVidFullStack.csproj.CoreCompileInputs.cache
+c:\PJL\Dev\pixvid\Code\ImageVidFullStackAPI\ImageVidFullStack\ImageVidFullStack\obj\Release\netcoreapp2.1\ImageVidFullStack.RazorAssemblyInfo.cache
+c:\PJL\Dev\pixvid\Code\ImageVidFullStackAPI\ImageVidFullStack\ImageVidFullStack\obj\Release\netcoreapp2.1\ImageVidFullStack.RazorAssemblyInfo.cs
+c:\PJL\Dev\pixvid\Code\ImageVidFullStackAPI\ImageVidFullStack\ImageVidFullStack\obj\Release\netcoreapp2.1\ImageVidFullStack.AssemblyInfoInputs.cache
+c:\PJL\Dev\pixvid\Code\ImageVidFullStackAPI\ImageVidFullStack\ImageVidFullStack\obj\Release\netcoreapp2.1\ImageVidFullStack.AssemblyInfo.cs
+c:\PJL\Dev\pixvid\Code\ImageVidFullStackAPI\ImageVidFullStack\ImageVidFullStack\obj\Release\netcoreapp2.1\ImageVidFullStack.RazorTargetAssemblyInfo.cache
+c:\PJL\Dev\pixvid\Code\ImageVidFullStackAPI\ImageVidFullStack\ImageVidFullStack\obj\Release\netcoreapp2.1\ImageVidFullStack.dll
+c:\PJL\Dev\pixvid\Code\ImageVidFullStackAPI\ImageVidFullStack\ImageVidFullStack\obj\Release\netcoreapp2.1\ImageVidFullStack.pdb
